@@ -1,0 +1,17 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "7.0.3",
+    "node-sass": "^4.11.0",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "rebass": "^3.0.1",
+    "styled-components": "^4.1.3"
+  }
+}
